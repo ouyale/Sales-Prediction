@@ -152,8 +152,8 @@ The model explains **91.3%** of the variance in sales using advertising expendit
 
 ```bash
 # Clone the repository
-git clone https://github.com/ouyale/Sales-Prediction.git
-cd Sales-Prediction
+git clone https://github.com/ouyale/Sales-Prediction-v2.git
+cd Sales-Prediction-v2
 
 # Install dependencies
 pip install numpy==1.21.2 pandas==1.3.3 scikit-learn==0.24.2 matplotlib==3.4.3 seaborn==0.11.2
